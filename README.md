@@ -31,6 +31,7 @@ MYMOVIE HUB is a modern, feature-rich movie recommendation platform designed to 
 and many more, including code architecture and reusability
 
 *Figma model of the Web:
-![image](https://github.com/user-attachments/assets/93cec8da-26e7-4cf0-9af3-294b1819c1ba)
+<img width="999" height="582" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/b7addd8a-cb65-4bbb-92f3-38bb2e740162" />
+
 
 
